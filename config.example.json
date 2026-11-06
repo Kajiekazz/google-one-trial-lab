@@ -1,0 +1,18 @@
+{
+  "port": 9342,
+  "proxy": "",
+  "card": {
+    "number": "0000000000000000",
+    "exp_month": "01",
+    "exp_year": "30",
+    "cvc": "000",
+    "holder": "CARD HOLDER"
+  },
+  "billing_address": {
+    "address_line1": "1 Infinite Loop",
+    "locality": "Cupertino",
+    "province": "CA",
+    "state_name": "California",
+    "postal_code": "95014"
+  }
+}

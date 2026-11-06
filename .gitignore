@@ -1,0 +1,19 @@
+# 本地配置（含卡号，绝不提交）
+config.json
+.env
+
+# 浏览器档案（含 cookie / 登录态）
+profiles/
+chrome-profile/
+
+# 运行产物
+shots/
+screenshots/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
